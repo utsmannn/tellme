@@ -1,7 +1,7 @@
 # Tell Me What Happen
 Or in Indonesian, "Kenape nih anjirr!" <br>
 
-**Lightweight library for catch error globally that cause force close your application and replace "stopping apps dialog" with informative activity**
+**Lightweight library for catch error globally that cause force close your application and replace "app keep stopping" dialog with informative activity**
 
 
 | screenshot |
