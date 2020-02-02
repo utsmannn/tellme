@@ -9,8 +9,9 @@ Or in Indonesian, "Kenape nih anjirr!" <br>
 |![](https://i.ibb.co/JF8VBFN/art1.png) |
 
 ## Download
+[ ![Download](https://api.bintray.com/packages/kucingapes/utsman/com.utsman.tellme/images/download.svg) ](https://bintray.com/kucingapes/utsman/com.utsman.tellme/_latestVersion)
 ```groovy
-implementation 'com.utsman.tellme:tellme:1.0.0' // not yet approved in jcenter (sabar njir)
+implementation 'com.utsman.tellme:tellme:1.0.0'
 ```
 
 ## Usage
