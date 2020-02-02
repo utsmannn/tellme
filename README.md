@@ -23,7 +23,7 @@ Tellme.setInstance(context)
 ## Customization
 ### With default tellme activity
 ```kotlin
-Tellme.setInstance(this)
+Tellme.setInstance(context)
       .setEmail("kristin@gmail.com", "prita@outlook.com") // email address for send report error
       .setColorAccent(R.color.colorAccent) // setup color accent
 ```
@@ -44,7 +44,7 @@ class CustomExceptionActivity : TellmeActivity() {
 ```
 And setup in tellme instance
 ```kotlin
-Tellme.setInstance(this)
+Tellme.setInstance(context)
       .withActivity(CustomExceptionActivity::class.java)
 ```
 
