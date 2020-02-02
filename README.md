@@ -14,7 +14,7 @@ implementation 'com.utsman.tellme:tellme:1.0.0' // not yet approved in jcenter (
 ```
 
 ## Usage
-Attach in `onCreate` of activity or application global (setup in 'name' in manifest)
+Attach in `onCreate` of activity or application global (setup 'name' on `AndroidManifest.xml`)
 ```kotlin
 Tellme.setInstance(context)
 ```
