@@ -48,7 +48,7 @@ Tellme.setInstance(this)
 ```
 
 ## Sample
-[sample](https://github.com/utsmannn/tellme/blob/master/app/src/main/java/com/utsman/sample)
+[sample](https://github.com/utsmannn/tellme/tree/master/app/src/main)
 
 ---
 ```
